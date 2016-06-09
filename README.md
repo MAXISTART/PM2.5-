@@ -6,3 +6,6 @@
 下面是预览效果
 
 ![image](https://github.com/MAXISTART/PM2.5-/raw/master/github的app作品预览.gif)
+
+感谢davidWang提供的基本框架
+https://github.com/MAXISTART/DWPrivateTrainerAnimation.git
